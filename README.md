@@ -30,7 +30,7 @@ Table of Contents
 
 ## 2022
 
-- [x] Algocratie | *Technology* - Vivre Libre à l'heure des algorithmes - Author(s) Arthur Grimonpont 
+- [x] Algocratie | *Technology* - Vivre Libre à l'heure des algorithmes - Author(s) Arthur GRIMONPONT
    
 - [X] Les Blockchains | *Technology* - En 50 Question - Autor(s) Jean-Guillaume Dumas, Pascal Lafourcade, Ariane Tichit, Sebastien Varrette
 
@@ -40,13 +40,13 @@ Table of Contents
 
 ## 2021
 
-- [x] Shangrila | *reflection*, *philosophy* - Autor(s) Mathieu Bablet 
+- [x] Shangrila | *reflection*, *philosophy* - Autor(s) Mathieu BABLET
 
 ---
 
 ## 2020
 
-- [x] Carbone & Silicium | *reflection*, *philosophy* - Autor(s) Mathieu Bablet 
+- [x] Carbone & Silicium | *reflection*, *philosophy* - Autor(s) Mathieu BaABLET 
 
 ---
 
