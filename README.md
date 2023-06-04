@@ -10,7 +10,7 @@ THÉMATIQUES :Auto-réflexion - Curiosity - Technology
 
 🧭 le : 2023-05-16 
 
-List of books that have given me the most in terms of personal development and self-learning.
+List of books that have given me the most in terms of personal development and self-learning. (from oldest to newest)
 
 ---
 
