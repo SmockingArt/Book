@@ -14,8 +14,14 @@ List of books that have given me the most in terms of personal development and s
 
 ---
 
-- [X] Blockchain, NFT et Métaverse | *Technology* - Démythification, usages et potentiels - Auteur(s) Frédéric GOUJON, Yves-Michel LEPORCHER
+- [X] Blockchain, NFT et Métaverse | *Technology* - Démythification, usages et potentiels - Author(s) Frédéric GOUJON, Yves-Michel LEPORCHER
 
-- [x] ChatGPT | *Technology* - Qui es tu ? - Auteur(s) Daniel ICHBIAH
+- [x] ChatGPT | *Technology* - Qui es tu ? - Author(s) Daniel ICHBIAH
 
+- [x] Algocratie | *Technology* - Vivre Libre à l'heure des algorithmes - Author(s) Arthur Grimonpont 
+
+- [X] Les Blockchains | *Technology* - En 50 Question - Autor(s) Jean-Guillaume Dumas, Pascal Lafourcade, Ariane Tichit, Sebastien Varrette
+
+- [x] Les NFT | *Technology* - En 40 Question - Author(s) Jean-Guillaume Dumas, Pascal Lafourcade, Etienne Roudeix, Ariane Tichit, Sebastien Varrette
+   
 ---
