@@ -4,7 +4,7 @@ $$Information$$
 
 TAG :  #BookRead
 
-THÉMATIQUES :Auto-réflexion - Curiosity
+THÉMATIQUES :Auto-réflexion - Curiosity - Technology 
 
 ✍ Fais par : @SmockingArt 
 
@@ -14,6 +14,4 @@ List of books that have given me the most in terms of personal development and s
 
 ---
 
-- [X] Blockchain, NFT et Métaverse *540minutes* - Démythification, usages et potentiels - Auteur(s) Frédéric GOUJON, Yves-Michel LEPORCHER
-
-# 🚦🚧 Work in progress 
+- [X] Blockchain, NFT et Métaverse *Technology* - Démythification, usages et potentiels - Auteur(s) Frédéric GOUJON, Yves-Michel LEPORCHER
