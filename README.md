@@ -14,4 +14,4 @@ List of books that have given me the most in terms of personal development and s
 
 ---
 
-- [X] Blockchain, NFT et Métaverse *Technology* - Démythification, usages et potentiels - Auteur(s) Frédéric GOUJON, Yves-Michel LEPORCHER
+- [X] Blockchain, NFT et Métaverse | *Technology* - Démythification, usages et potentiels - Auteur(s) Frédéric GOUJON, Yves-Michel LEPORCHER
